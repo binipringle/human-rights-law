@@ -38,7 +38,7 @@ The government of Uttar Pradesh has failed to protect the human rights of religi
 
 ---
 
-### Right to Life
+## Right to Life
 
 The government of India/Uttar Pradesh's failure to prosecute/release of the 16 members of the Hindu Youth Brigade who murdered Ikhlaq violates Ikhlaq's right to life. As signatory to the ICCPR, India has an obligation to protect the right to life of all individuals within its jurisdiction.
 
@@ -54,7 +54,7 @@ In conclusion, Ikhlaq's inherent right to life was violated because Ikhlaq was k
 
 ---
 
-### Freedom from torture and cruel, inhuman or degrading treatment or punishment
+## Freedom from torture and cruel, inhuman or degrading treatment or punishment
 
 The beating of Mohammed Ikhlaq, the bashing of his son's skull with a brick, and the violence committed against other members of the Ikhlaq family may constitute torture or cruel, inhuman or degrading treatment or punishment. India has an obligation under the ICCPR to prohibit and prevent such acts.
 
@@ -68,7 +68,7 @@ Therefore, ...
 
 ---
 
-### Freedom of thought, conscience and religion
+## Freedom of thought, conscience and religion
 
 India has an obligation under the ICCPR to protect the right to freedom of thought, conscience, and religion.
 
@@ -84,7 +84,7 @@ More broadly, the Hindu Youth Brigade's efforts to prevent relationships between
 
 ---
 
-### Right to non-discrimination
+## Right to non-discrimination
 
 A claim can be made that India and Uttar Pradesh failed to protect Ikhlaq's right to freedom from discrimination on the basis of religion.
 
@@ -94,7 +94,7 @@ Here, The targeting of Muslims by the Hindu Youth Brigade's "Save the Cow" subdi
 
 ---
 
-### Equal access to justice
+## Equal access to justice
 
 Under Article 5 of CERD, "States Parties undertake to prohibit and to eliminate racial discrimination in all its forms and to guarantee the right of everyone, without distinction as to race, colour, or national or ethnic origin, to equality before the law, notably in the enjoyment of the following rights: (a) The right to equal treatment before the tribunals and all other organs administering justice;
 

@@ -31,7 +31,7 @@ As legal advisor for a group of human rights organizations in Uttar Pradesh, Ind
 
 ---
 
-### Freedom of expression and the press
+## Freedom of expression and the press
 
 The government of Uttar Pradesh failed to protect the right to freedom of expression and the press of journalists in Uttar Pradesh when it issued complaints (“First Information Reports”) against journalists who had challenged government claims, detained a reporter who critiqued a children's food program, and detained another journalist without cause and seized his computer. India is a signatory to the ICCPR.
 
@@ -45,7 +45,7 @@ Therefore, ...
 
 ---
 
-### Freedom from arbitrary detention
+## Freedom from arbitrary detention
 
 The detention of journalists and others without proper evidence or due process violates the right to freedom from arbitrary detention under Article 9 of the ICCPR.
 
@@ -57,7 +57,7 @@ Therefore, ...
 
 ---
 
-### Due process
+## Due process
 
 The government of Uttar Pradesh violated journalists' right to due process by using complaints and arrests to silence dissenting voices in Uttar Pradesh.
 
@@ -69,7 +69,7 @@ Therefore, ...
 
 ---
 
-### Equal treatment under law
+## Equal treatment under law
 
 The government of Uttar Pradesh violated the right to equal treatment under the law under Article 14 of the ICCPR by dismissing a hate speech case against Chief Minister Yogi Adityanath without proper investigation.
 
@@ -81,7 +81,7 @@ Therefore, ...
 
 ---
 
-### Protection of minorities
+## Protection of minorities
 
 The government's failure to protect minorities, including religious and ethnic minorities, from hate speech and violence by Hindu nationalist groups violates the right to non-discrimination and protection of minorities under Article 2 and Article 27 of the ICCPR and Article 2 of the CERD.
 
@@ -97,7 +97,7 @@ Therefore, ...
 
 ---
 
-### Right to food
+## Right to food
 
 The denial of nutritious meals to children under the federally-mandated midday-meal scheme and the arrest of whistleblowers who expose such violations violates the right to food under Article 11 of the ICESCR.
 
