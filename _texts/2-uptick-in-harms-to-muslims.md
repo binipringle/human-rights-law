@@ -5,7 +5,6 @@ author:
 editor: Sabina Pringle
 source:
 toc:
-- Facts
 - Human rights issues
 - Right to Life
 - Freedom from torture and cruel, inhuman or degrading treatment or punishment
@@ -15,7 +14,7 @@ toc:
 
 ---
 
-## Facts
+<!-- ## Facts
 
 As previously noted, Yogi Adityanath’s Hindu Youth Brigade promotes Hindutva through, among other acts, reconverting Muslims/Christians to Hinduism, preventing relationships between Hindu girls and Muslim boys, and the protection of cows.
 
@@ -27,7 +26,7 @@ In May 2016, a new report was issued saying that the meat that had proven under 
 
 In March 2017, after the BJP had won 308 of the 403 parliamentary seats in Uttar Pradesh, the Prime Minister of India (Narendra Modi) named Yogi Adityanath Chief Minister (the equivalent of governor) of Uttar Pradesh. Leaders of the Hindu Youth Brigade stated that they would be freer to engage in their work with Yogi Adityanath in charge. After a young couple was “roughed up” by a crowd for involvement in love jihad in early April 2017, Yogi Adityanath asked leaders within the Hindu Youth Brigade to report matters to the police, stating that the police would no longer ignore Hindu concerns, but support them.
 
----
+-->
 
 ## Human rights issues
 

@@ -15,7 +15,7 @@ toc:
 - Right to food
 
 ---
-## Facts
+<!--## Facts
 
 Leaders of the Congress Party in Uttar Pradesh have noted that Yogi Adityanath had a number of cases pending against him when he became Chief Minister. In dismissing one hate speech case against the Chief Minister, the High Court (similar to a U.S. State Supreme Court) noted that the resources of the petitioner, an individual who had kept the case going for fourteen years should be investigated, and fined the petitioner 100,000 Rupees.
 
@@ -24,6 +24,7 @@ In Uttar Pradesh, assaults against journalists have risen, and a number of journ
 Although communal rioting (based on differences in religion or caste) has dropped greatly since 2017, Hindu-nationalist hate speech has increased, and governmental protections have decreased for those perceived to undermine the strength of the government. This has raised concerns that Yogi Adityanath continues to call for extra-judicial violence and executions, but without concern for parameters that might otherwise be imposed by either the judiciary or another rule of law mechanism. There is a concern that the actions in Uttar Pradesh stand as examples of the direction nationalism may take throughout India, and that Prime Minister Modi is looking to Yogi Adityanath as a potential successor.
 
 ---
+-->
 
 ## Human rights issues
 

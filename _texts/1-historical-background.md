@@ -9,7 +9,7 @@ toc:
 
 ---
 
-## Historical Background
+<!--## Historical Background
 
 When the British left India in mid-August 1947, they split the territory into Pakistan (a Muslim territory to the northeast (in what is today Bangladesh), and in the west, in what is today Pakistan), and India. Those who had been seeking to have Britain leave India had varying views of what the country should look like: some wanted a secular country, free of colonial powers; others wanted protections for the large Muslim minority that had had some degree of protection under British control; others wished for a country based in religious and cultural majoritarianism – a country based in the Hindutva, or Hinduness, of its people. The period of India’s partition into Pakistan and India (“Partition”) saw communal violence, particularly between Hindus and Muslims.
 
@@ -25,5 +25,6 @@ In 2009, Yogi Adityanath reportedly stated that for each Hindu girl Muslims took
 Some noted that his statements were problematic in part because of his political party, the BJP, coming to power in 2014. For example, some Muslim groups in India asked that school children not have to perform Surya Namaskar (a morning stretch that is sometimes referred to as a Sun salutation) on June 21, 2015, because it could be construed as a prayer to Surya, the Sun god (It might be noted that the United Nations recognized an [“International Day of Yoga”](https://www.un.org/en/observances/yoga-day) at the request of Prime Minister Modi’s government in 2014). Yogi Adityanath argued that the Sun god gave his power to all, regardless of caste, creed, or religion – if they wished to not recognize the Sun, “they should drown themselves in the sea, or stay in some dark cell.”
 
 ---
+-->
 
 ## Footnotes
