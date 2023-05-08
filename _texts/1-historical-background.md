@@ -27,4 +27,8 @@ Some noted that his statements were problematic in part because of his political
 ---
 -->
 
+See handout
+
+---
+
 ## Footnotes
