@@ -6,7 +6,6 @@ editor: Sabina Pringle
 source:
 toc:
 - Facts
-- Rule 104 Preliminary Questions
 - Human rights issues
 - Right to Life
 - Freedom from torture and cruel, inhuman or degrading treatment or punishment
@@ -82,6 +81,8 @@ This does not justify vigilanteism. The murder of Mohammed Ikhlaq and the subseq
 
 More broadly, the Hindu Youth Brigade's efforts to prevent relationships between Hindus and Muslims, as well as their reconversion of Muslims and Christians to Hinduism, raise concerns about freedom of religion.
 
+Therefore, ...
+
 ---
 
 ## Right to non-discrimination
@@ -92,13 +93,17 @@ India ratified the International Convention on the Elimination of All Forms of R
 
 Here, The targeting of Muslims by the Hindu Youth Brigade's "Save the Cow" subdivision raises concerns about discrimination on the basis of religion.
 
+Therefore, ...
+
 ---
 
 ## Equal access to justice
 
-Under Article 5 of CERD, "States Parties undertake to prohibit and to eliminate racial discrimination in all its forms and to guarantee the right of everyone, without distinction as to race, colour, or national or ethnic origin, to equality before the law, notably in the enjoyment of the following rights: (a) The right to equal treatment before the tribunals and all other organs administering justice;
+Under Article 5 of CERD, "States Parties undertake to prohibit and to eliminate racial discrimination in all its forms and to guarantee the right of everyone, without distinction as to race, colour, or national or ethnic origin, to equality before the law, notably in the enjoyment of the following rights: (a) The right to equal treatment before the tribunals and all other organs administering justice."
 
-The fact that Yogi Adityanath called for the release of the 16 young men arrested for Mohammed Ikhlaq's murder, despite evidence to the contrary, raises concerns about access to justice. India has an obligation under the ICCPR to ensure that all individuals have access to an effective remedy for violations of their human rights.
+Here, the fact that Yogi Adityanath called for the release of the 16 young men arrested for Mohammed Ikhlaq's murder, despite evidence to the contrary, raises concerns about access to justice. India has an obligation under the ICCPR to ensure that all individuals have access to an effective remedy for violations of their human rights.
+
+Therefore, ...
 
 ---
 
