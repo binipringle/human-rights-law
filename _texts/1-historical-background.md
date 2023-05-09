@@ -27,7 +27,9 @@ Some noted that his statements were problematic in part because of his political
 ---
 -->
 
-See handout
+See handout for historical background of fact pattern.
+
+Note: BJP stands for the Bharatiya Janata Party, which is a major political party in India. Yogi Adityanath was a Member of Parliament representing the BJP in the Gorakhpur constituency. The BJP is known for its Hindu nationalist ideology and has been in power at the central government level in India since 2014.
 
 ---
 

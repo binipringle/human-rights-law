@@ -108,4 +108,12 @@ Therefore, ...
 
 ---
 
+## Hate speech
+
+Article 20(2) of the ICCPR states "Any advocacy of national, racial or religious hatred that constitutes incitement to discrimination, hostility or violence shall be prohibited by law."
+
+India ratified the ICCPR.
+
+---
+
 ## Footnotes

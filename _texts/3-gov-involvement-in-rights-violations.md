@@ -34,7 +34,7 @@ As legal advisor for a group of human rights organizations in Uttar Pradesh, Ind
 
 ## Freedom of expression and the press
 
-The government of Uttar Pradesh failed to protect the right to freedom of expression and the press of journalists in Uttar Pradesh when it issued complaints (“First Information Reports”) against journalists who had challenged government claims, detained a reporter who critiqued a children's food program, and detained another journalist without cause and seized his computer. India is a signatory to the ICCPR.
+The government of Uttar Pradesh failed to protect the right to freedom of expression and the press of journalists in Uttar Pradesh when it issued complaints (“First Information Reports” or "FIR") against journalists who had challenged government claims, detained a reporter who critiqued a children's food program, and detained another journalist without cause and seized his computer. India is a signatory to the ICCPR.
 
 Article 19 of the the International Covenant on Civil and Political Rights (ICCPR) provides that "(1)Everyone shall have the right to hold opinions without interference. (2) Everyone shall have the right to freedom of expression; this right shall include freedom to seek, receive and impart information and ideas of all kinds, regardless of frontiers, either orally, in writing or in print, in the form of art, or through any other media of his choice. (3) The exercise of the rights provided for in paragraph 2 of this article [article 19] carries with it special duties and responsibilities. It may therefore be subject to certain restrictions, but these shall only be such as are provided by law and are necessary (a) for respect of the rights or reputations of others; and/or (b) For the protection of national security or of public order (ordre public), or of public health or morals."
 
@@ -78,7 +78,19 @@ Article 14 (1) of the ICCPR provides that "all persons shall be equal before the
 
 Here, ... Dismissing a case without proper investigation undermines the right to a fair hearing and undermines the principle of equal treatment under the law.
 
+According to the Times of India, Yogi Adityanath had 27 cases against him before he became Chief Minister of the State of Uttar Pradesh. "Congress leader BK Hariprasad on April 16, condemned the law of Uttar Pradesh. He also said that Yogi Adityanath had 27 cases against him before becoming CM. While speaking to ANI, BK Hariprasad said, “There is no such thing as law in Uttar Pradesh. There were 27 cases against Chief Minister Yogi Adityanath before he became CM. If there was a criminal case against Atiq Ahmed, there were also cases against Yogi. But Yogi became CM. This is not only bad for Uttar Pradesh but for the whole country.” ["CM Yogi had 27 cases against him before he became CM." Times of India, April 16, 2023](https://timesofindia.indiatimes.com/videos/city/lucknow/cm-yogi-had-27-cases-against-him-before-he-became-cm-bk-hariprasad/videoshow/99536607.cms?from=mdr)
+
 Therefore, ...
+
+---
+
+## ne bis in idem
+
+The International Covenant on Civil and Political Rights (ICCPR) recognizes the principle of "ne bis in idem," which means that no one shall be tried or punished again for an offense for which they have already been finally convicted or acquitted.
+
+Article 14(7) of the ICCPR states that "No one shall be liable to be tried or punished again for an offense for which he has already been finally convicted or acquitted in accordance with the law and penal procedure of each country." This principle is also recognized in other international human rights instruments, such as the Universal Declaration of Human Rights and the European Convention on Human Rights.
+
+The fact pattern for the final exam linked to a February 20, 2023 article in the Decca Herald about how the Allahabad High Court imposed a fine of Rs 1 lakh on a man for filing repeated petitions against Uttar Pradesh Chief Minister Yogi Adityanath regarding the 2007 Gorakhpur riot case in spite of the issue allegedly being settled by the Supreme Court. ["HC fines man Rs 1 lakh for repeated pleas against Yogi in Gorakhpur riots case"](https://www.deccanherald.com/national/north-and-central/hc-fines-man-rs-1-lakh-for-repeated-pleas-against-yogi-in-gorakhpur-riots-case-1193979.html)
 
 ---
 
